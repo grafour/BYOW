@@ -13,9 +13,13 @@ Player(s): the little mushroom
 
 - Multiplayer Game (M): play with you friend! This is a collective effort! :)
 
-![title](Images/multi.png)
+<img src="https://github.com/grafour/BYOW/blob/main/Images/multi.png" width="500" />
 
 - Toggle Mode (O): only if you are up for a challenge, it will restrict your field of view.
 
+<img src="https://github.com/grafour/BYOW/blob/main/Images/Screen%20Shot%202023-01-04%20at%2011.23.44%20PM.png" width="300" />
 
+- Load previous unfinished game (L)
+
+- Quit (:Q): this automatically saves your progress.
 
